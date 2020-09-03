@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # best_order
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# coffee_orders
+My first mobile application in flutter. Its a application for displaying your coffee description
+>>>>>>> 4c6276d6dc9554acc95fc203ec676b2663254a83
